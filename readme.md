@@ -1,0 +1,1 @@
+一个基于storybook的独立UI开发框架。目前已集成react 、typescript、antd、css-module、mobx、mobx-react等技术栈
